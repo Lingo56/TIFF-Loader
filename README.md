@@ -1,10 +1,6 @@
-# tiff-loader
+# TIFF Loader
 
-An Electron application with React
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+An app that loads and displays a TIFF image uncompressed
 
 ## Project Setup
 
