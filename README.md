@@ -1,6 +1,6 @@
 # TIFF Loader
 
-Loads and displays a TIFF image without compression.
+Loads and displays TIFF images without compression.
 
 ## Project Setup
 
