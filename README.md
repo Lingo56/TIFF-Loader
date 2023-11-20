@@ -1,6 +1,6 @@
 # TIFF Loader
 
-An app that loads and displays a TIFF image without compression.
+Loads and displays a TIFF image without compression.
 
 ## Project Setup
 
